@@ -3,9 +3,9 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 git clone 
 
-# Compiler
+# Find
 
-* Run *
+* Run 
 this on terminal:
 
 $ find . -name "*.java" > sources.txt         
@@ -17,7 +17,7 @@ This will find all java files in the current directory
 
 # Compile
 
-* Run *
+* Run 
 this on terminal
 
 $ javac -sourcepath @sources.txt
