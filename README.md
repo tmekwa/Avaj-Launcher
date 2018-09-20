@@ -3,11 +3,9 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 git clone 
 
-#About Avaj-Launcher
+# Forewords
 
-
-#Forewords
-Maverick: “This is what I call a target rich environment.”
+Maverick: “This is what I call a target rich environment.” "\n"
 Goose: “You live your life between your legs Mav.”
 Maverick: “Goose, even you could get laid in a place like this.”
 Goose:” Hell, I’d be happy to just find a girl that would talk dirty to me.”
@@ -19,10 +17,10 @@ Goose: “Yeah, I’m sure he’s saying that.”
 
 # Clone 
 Navigate inside the cloned directory.
-if (!renamed)
-	$ cd Avaj-Launcher/Avaj_Launcher/src
-else
-	$ cd repo_directory/Avaj_Launcher/src
+```if (!renamed)```
+	```$ cd Avaj-Launcher/Avaj_Launcher/src```
+```else```
+	```$ cd repo_directory/Avaj_Launcher/src```
 
 # Find
 
